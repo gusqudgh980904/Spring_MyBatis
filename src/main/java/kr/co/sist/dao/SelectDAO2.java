@@ -82,11 +82,6 @@ public class SelectDAO2 {
 	}//selectDynamicTable
 	
 
-	public static void main(String[] args) {
-		SelectDAO2 sd=new SelectDAO2();
-		TableVO tVO=new TableVO();
-		tVO.setLoc("emp");
-		sd.selectDynamicTable(tVO);
-	}//main
+
 
 }//class

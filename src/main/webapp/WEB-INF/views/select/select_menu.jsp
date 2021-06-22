@@ -37,8 +37,16 @@
 		<td><a href="select_menu.do?page=join">join</a></td>
 		<td><a href="select_menu.do?page=subquery_join">join&subquery</a></td>
 		<td><a href="select_menu.do?page=dynamicTable">동적인테이블명</a></td>
-		<td><a href="select_menu.do?page=singleColumn">Dynamic Query</a></td>
 	</tr>
+	   <tr>
+      <td><a href="select_menu.do?page=dynamic_if">Dynamic Query( if )</a></td>
+      <td><a href="select_menu.do?page=dynamic_choose">Dynamic Query( choose )</a></td>
+      <td><a href="select_menu.do?page=dynamic_foreach">Dynamic Query( foreach )</a></td>
+      <td><a href="select_menu.do?page=dynamic_trim">Dynamic Query( trim )</a></td>
+      <td><a href="select_menu.do?page=procedure_insert">procedure( insert )</a></td>
+      <td colspan="5"><a href="select_menu.do?page=procedure_select">procedure( select )</a></td>
+   	</tr>
+	
 </table>
 </div>
 <div>
