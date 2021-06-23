@@ -44,7 +44,7 @@
       <td><a href="select_menu.do?page=dynamic_foreach">Dynamic Query( foreach )</a></td>
       <td><a href="select_menu.do?page=dynamic_trim">Dynamic Query( trim )</a></td>
       <td><a href="select_menu.do?page=procedure_insert">procedure( insert )</a></td>
-      <td colspan="5"><a href="select_menu.do?page=procedure_select">procedure( select )</a></td>
+      <td colspan="6"><a href="select_menu.do?page=procedure_select">procedure( select )</a></td>
    	</tr>
 	
 </table>

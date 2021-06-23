@@ -26,5 +26,6 @@
     <mapper resource="kr/co/sist/mapper/examMapper.xml"/>
     <mapper resource="kr/co/sist/mapper/selectMapper.xml"/>
     <mapper resource="kr/co/sist/mapper/selectMapper2.xml"/>
+    <mapper resource="kr/co/sist/mapper/selectMapper3.xml"/>
   </mappers>
 </configuration>
